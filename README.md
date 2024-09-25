@@ -1,9 +1,9 @@
-#Certainly! Below is a sample README file for your GitHub repository focused on machine learning (ML) and deep learning (DL) in Python. Feel free to customize it according to your project's specifics. I will also provide a sample SVG link; however, svg images should be hosted or generated externally since I can't create or host files directly. You'll need to upload your own SVG images or use them from a link.
 
 markdown
 # Machine Learning & Deep Learning Repository
 
-![Machine Learning - Deep Learning](https://example.com/machine-learning.svg)  <!-- Replace with your own SVG link -->
+![Machine Learning - Deep Learning](![image](https://github.com/user-attachments/assets/e5dbe5e8-2cb1-403c-9eb1-1ca197c4edf7)
+)  <!-- Replace with your own SVG link -->
 
 ## Overview
 
@@ -121,6 +121,7 @@ Replace the SVG URL in the `![Machine Learning - Deep Learning](https://example.
 Feel free to modify the content according to your project's specific features and requirements!
 
 # or
+```
 pip install numpy pandas matplotlib scikit-learn torch torchvision  # for PyTorch
 ```
 
