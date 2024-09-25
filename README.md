@@ -30,12 +30,14 @@ This repository contains a collection of Python code examples for machine learni
   - TensorFlow/Keras or PyTorch (depending on the deep learning framework)
   
 ```bash
-pip install numpy pandas matplotlib scikit-learn tensorflow  # for TensorFlow
+pip install numpy pandas matplotlib scikit-learn tensorflow 
+```
+ # for TensorFlow
 Certainly! Below is a sample README file for your GitHub repository focused on machine learning (ML) and deep learning (DL) in Python. Feel free to customize it according to your project's specifics. I will also provide a sample SVG link; however, svg images should be hosted or generated externally since I can't create or host files directly. You'll need to upload your own SVG images or use them from a link.
 
 ```markdown
 # Machine Learning & Deep Learning Repository
-
+```
 ![Machine Learning - Deep Learning](https://example.com/machine-learning.svg)  <!-- Replace with your own SVG link -->
 
 ## Overview
@@ -64,7 +66,9 @@ This repository contains a collection of Python code examples for machine learni
   
 ```bash
 pip install numpy pandas matplotlib scikit-learn tensorflow  # for TensorFlow
+```
 # or
+```
 pip install numpy pandas matplotlib scikit-learn torch torchvision  # for PyTorch
 ```
 
@@ -73,7 +77,9 @@ pip install numpy pandas matplotlib scikit-learn torch torchvision  # for PyTorc
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/machine-learning-deep-learning.git
+git clone https://github.com/Techsynx/machine-learning-deep-learning.git
+```
+```
 cd machine-learning-deep-learning
 ```
 
