@@ -122,7 +122,8 @@ Feel free to modify the content according to your project's specific features an
 
 # or
 ```
-pip install numpy pandas matplotlib scikit-learn torch torchvision  # for PyTorch
+pip install numpy pandas matplotlib scikit-learn torch torchvision 
+ # for PyTorch
 ```
 
 ## Installation
@@ -130,7 +131,7 @@ pip install numpy pandas matplotlib scikit-learn torch torchvision  # for PyTorc
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/machine-learning-deep-learning.git
+git clone https://github.com/Techsynx/machine-learning-deep-learning.git
 ```
 ```
 cd machine-learning-deep-learning
